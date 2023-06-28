@@ -1,0 +1,13 @@
+body{
+    background-image: url(fadedBG.jpg); 
+    background-repeat: repeat-x;
+    background-position-y: 440px; 
+    background-position-x: 50px; 
+    background-size: 50.67cm;  
+}
+p {
+    color: navy;
+    text-indent: 30px;
+    text-transform: uppercase;
+}
+  
